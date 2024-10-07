@@ -1,4 +1,4 @@
-# Cristobal Donoso-Oliva
+<img title="a title" alt="Alt text" src="https://github.com/cridonoso/cridonoso/blob/main/banner%20github.png?raw=true">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](www.linkedin.com/in/cristóbal-rodrigo-donoso-oliva-9892aa2a6) [![GitHub](https://img.shields.io/badge/GitHub-Profile-black)](https://github.com/cridonoso/cridonoso/blob/a1905ebfcfb452b0b5aad1eb1bbb0ec2674da543/donoso-cv-oct-2024.pdf)
 
