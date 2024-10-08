@@ -1,10 +1,16 @@
 <img title="a title" alt="Alt text" src="https://github.com/cridonoso/cridonoso/blob/main/banner%20github.png?raw=true">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](www.linkedin.com/in/cristóbal-rodrigo-donoso-oliva-9892aa2a6) [![GitHub](https://img.shields.io/badge/GitHub-Profile-black)](https://github.com/cridonoso/cridonoso/blob/a1905ebfcfb452b0b5aad1eb1bbb0ec2674da543/donoso-cv-oct-2024.pdf)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/cristóbal-rodrigo-donoso-oliva-9892aa2a6) [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/cridonoso/cridonoso/blob/a1905ebfcfb452b0b5aad1eb1bbb0ec2674da543/donoso-cv-oct-2024.pdf) [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.cl/citations?user=33OH45MAAAAJ&hl=es&oi=ao)
+
+[](https://orcid.org/0009-0006-3064-8002)
 
 ## About Me :raising_hand:
 
-I am a research assistant in Computer Science with a focus on Data Science. I am passionate about extracting insights from data and applying machine learning techniques to solve complex problems. [Here is my CV!](https://github.com/cridonoso/cridonoso/blob/main/donoso-cv-oct-2024.pdf)
+I am a research assistant in Computer Science with 5 years of experience, with a focus on Data Science. Currently applying deep learning on Astrophysics problems.
+
+My long experience in Astronomy has taught me to tackle challenging tasks and extrapolate knowledge to other fields of application, such as text analysis, biology, and the forest industry.
+
+For a detailed trajectory of my academic and professional work, please check my [CV](https://github.com/cridonoso/cridonoso/blob/main/donoso-cv-oct-2024.pdf)
 
 ## Research Interests :mag:
 
