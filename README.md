@@ -21,7 +21,7 @@ For a detailed trajectory of my academic and professional work, please check my 
 ## Current Projects :clipboard:
 Here are the projects I'm currently working on. For a full list of my projects, please visit [this link]() .
 
-### [Astromer](#)
+### Astromer
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
 - **Description:** Embedding extractor for astronomical light curves, inspired by the BERT large language model, adapted for irregular time series.
 - **Keywords:** Transformers, Representation Learning, Self-supervised, Big data, Irregular Time Series, Astronomy.
