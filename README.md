@@ -45,4 +45,3 @@ Here are the projects I'm currently working on. For a full list of my projects, 
 Feel free to reach out to me for collaborations, questions, or discussions:
 
 - **Email:** cridonoso@inf.udec.cl
-- **G.Scholar** [link to google scholar](https://scholar.google.cl/citations?user=33OH45MAAAAJ&hl=es&oi=ao) 
